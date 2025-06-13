@@ -1,26 +1,32 @@
-.group-7,
-.group-7 * {
-  box-sizing: border-box;
+
+.group-8,
+.group-8 * {
+  box-sizing: border-box; 
 }
-.group-7 {
+.group-8 {
   height: 1021px;
   position: relative;
+}
+.group-7 {
+  width: 10px;
+  height: 10px;
+  position: static;
 }
 .rectangle-1 {
   border-radius: 20px;
   width: 1920px;
   height: 1021px;
   position: absolute;
-  left: 0px;
-  top: 0px;
   object-fit: cover;
 }
 .do-pedido-ao-envio {
+  top: 5px;
   background: linear-gradient(
     90deg,
     rgba(43, 81, 124, 1) 0%,
     rgba(64, 149, 177, 1) 62.9807710647583%,
     rgba(102, 187, 216, 1) 100%
+    
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -33,7 +39,7 @@
   left: 1228px;
   top: 342px;
   width: 386px;
-  height: 50px;
+  height: 35px;
 }
 .v {
   color: #2b517c;
@@ -42,9 +48,9 @@
   font-size: 96px;
   font-weight: 400;
   position: absolute;
-  left: 1345px;
+  left: 1368px;
   top: 242px;
-  width: 110px;
+  width: 105px;
   height: 90px;
 }
 .rectangle-5 {
@@ -63,47 +69,37 @@
   color:  rgba(44, 85, 119, 1);
   text-align: center;
   font-family: "Karla-Regular", sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
   position: absolute;
   left: 336px;
   top: 859px;
 }
-.na-v-acreditamos-que-cada-tijolo-cada-telha-e-cada-revestimento-s-o-essenciais-para-construir-sonhos {
-  color:  rgba(44, 85, 119, 1);
-  text-align: center;
-  font-family: "ArchivoBlack-Regular", sans-serif;
-  font-size: 36px;
-  font-weight: 400;
-  position: absolute;
-  left: 1125px;
-  top: 400px;
-}
 .rectangle-7 {
   background: #2b517c;
-  border-radius: 5px;
-  width: 150px;
-  height: 60px;
+  border-radius: 30px;
+  width: 175px;
+  height: 50px;
   position: absolute;
-  left: 580px;
+  left: 575px;
   top: 210px;
 }
 .rectangle-9 {
   background: #2b517c;
-  border-radius: 5px;
-  width: 150px;
-  height: 60px;
+  border-radius: 30px;
+  width: 175px;
+  height: 50px;
   position: absolute;
-  left: 30px;
+  left: 35px;
   top: 210px;
 }
 .rectangle-8 {
   background: #2b517c;
-  border-radius: 5px;
-  width: 150px;
-  height: 60px;
+  border-radius: 30px;
+  width: 175px;
+  height: 50px;
   position: absolute;
-  left: 305px;
+  left: 295px;
   top: 210px;
 }
 .solicitar-compra {
@@ -121,30 +117,30 @@
   text-align: left;
   font-family: "ArchivoBlack-Regular", sans-serif;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 300px;
   position: absolute;
   left: 54px;
-  top: 232px;
+  top: 228px;
 }
 .saiba-mais {
   color: #ffffff;
   text-align: left;
   font-family: "Karla-Regular", sans-serif;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   position: absolute;
-  left: 1717px;
-  top: 12px;
+  left: 1800px;
+  top: 20px;
 }
 .fale-com-a-v {
   color: #ffffff;
   text-align: left;
   font-family: "ArchivoBlack-Regular", sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   position: absolute;
-  left: 608px;
-  top: 230px;
+  left: 615px;
+  top: 228px;
 }
 .navigation-menu-and-content {
   display: flex;
