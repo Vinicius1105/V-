@@ -1,0 +1,312 @@
+.group-7,
+.group-7 * {
+  box-sizing: border-box;
+}
+.group-7 {
+  height: 1021px;
+  position: relative;
+}
+.rectangle-1 {
+  border-radius: 20px;
+  width: 1920px;
+  height: 1021px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.do-pedido-ao-envio {
+  background: linear-gradient(
+    90deg,
+    rgba(43, 81, 124, 1) 0%,
+    rgba(64, 149, 177, 1) 62.9807710647583%,
+    rgba(102, 187, 216, 1) 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Kavoon-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1228px;
+  top: 342px;
+  width: 386px;
+  height: 50px;
+}
+.v {
+  color: #2b517c;
+  text-align: left;
+  font-family: "Kenia-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 1345px;
+  top: 242px;
+  width: 110px;
+  height: 90px;
+}
+.rectangle-5 {
+  background: linear-gradient(
+    90deg,
+    rgba(87, 146, 195, 1) 0%,
+    rgba(44, 85, 119, 1) 100%
+  );
+  width: 1920px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.somos-sua-parceira-completa-em-materiais-de-constru-o-oferecendo-uma-vasta-gama-de-produtos-de-qualidade-superior-para-todas-as-etapas-da-sua-obra-do-alicerce-ao-acabamento-seja-para-construir-reformar-ou-decorar-aqui-voc-encontra-tudo-o-que-precisa-com-pre-os-competitivos-e-o-melhor-atendimento {
+  color:  rgba(44, 85, 119, 1);
+  text-align: center;
+  font-family: "Karla-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 336px;
+  top: 859px;
+}
+.na-v-acreditamos-que-cada-tijolo-cada-telha-e-cada-revestimento-s-o-essenciais-para-construir-sonhos {
+  color:  rgba(44, 85, 119, 1);
+  text-align: center;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1125px;
+  top: 400px;
+}
+.rectangle-7 {
+  background: #2b517c;
+  border-radius: 5px;
+  width: 150px;
+  height: 60px;
+  position: absolute;
+  left: 580px;
+  top: 210px;
+}
+.rectangle-9 {
+  background: #2b517c;
+  border-radius: 5px;
+  width: 150px;
+  height: 60px;
+  position: absolute;
+  left: 30px;
+  top: 210px;
+}
+.rectangle-8 {
+  background: #2b517c;
+  border-radius: 5px;
+  width: 150px;
+  height: 60px;
+  position: absolute;
+  left: 305px;
+  top: 210px;
+}
+.solicitar-compra {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 326px;
+  top: 229px;
+}
+.visite-nosso-estoque {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 232px;
+}
+.saiba-mais {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Karla-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1717px;
+  top: 12px;
+}
+.fale-com-a-v {
+  color: #ffffff;
+  text-align: left;
+  font-family: "ArchivoBlack-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 608px;
+  top: 230px;
+}
+.navigation-menu-and-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 630px;
+  height: 403px;
+  position: absolute;
+  left: 149px;
+  top: 408px;
+}
+.navigation-menu-content {
+  background: #ffffff;
+  border-radius: 6px;
+  border-style: solid;
+  border-color: var(--slate-200, #e2e8f0);
+  border-width: 1px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 507px;
+  height: 328px;
+  position: relative;
+  box-shadow: var(--shadow-box-shadow, 0px 4px 6px 0px rgba(0, 0, 0, 0.09));
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.poster {
+  flex-shrink: 0;
+  width: 188px;
+  height: 270px;
+  position: relative;
+}
+.rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(44, 85, 119, 1) 0%,
+    rgba(82, 158, 221, 1) 100%
+  );
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 74.47%;
+  height: 42.96%;
+  position: absolute;
+  right: 12.77%;
+  left: 12.77%;
+  bottom: 14.44%;
+  top: 42.59%;
+}
+.ellipse-3 {
+  background: #ffffff;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  position: relative;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.shadcn-ui {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 500;
+  position: relative;
+}
+.beautifully-designed-components-built-with-radix-ui-and-tailwind-css {
+  color: var(--slate-200, #e2e8f0);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.006em;
+  font-weight: 400;
+  position: relative;
+  width: 140px;
+}
+.frame-64 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.navigation-menu-content-item {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.introduction {
+  color: #000000;
+  text-align: left;
+  font-family: var(--small-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-font-size, 14px);
+  line-height: var(--small-line-height, 14px);
+  font-weight: var(--small-font-weight, 500);
+  position: relative;
+}
+.re-usable-components-built-using-radix-ui-and-tailwind-css {
+  color: var(--slate-500, #64748b);
+  text-align: left;
+  font-family: var(--subtle-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--subtle-font-size, 14px);
+  line-height: var(--subtle-line-height, 20px);
+  font-weight: var(--subtle-font-weight, 400);
+  position: relative;
+  width: 227px;
+}
