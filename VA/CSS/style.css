@@ -75,32 +75,25 @@
   left: 336px;
   top: 859px;
 }
-.rectangle-7 {
-  background: #2b517c;
-  border-radius: 30px;
-  width: 175px;
-  height: 50px;
-  position: absolute;
-  left: 575px;
-  top: 210px;
-}
+
 .rectangle-9 {
   background: #2b517c;
   border-radius: 30px;
-  width: 175px;
+  width: 150px;
   height: 50px;
   position: absolute;
-  left: 35px;
-  top: 210px;
+  left: 280px;
+  top: -150px;
 }
+
 .rectangle-8 {
   background: #2b517c;
   border-radius: 30px;
-  width: 175px;
+  width: 150px;
   height: 50px;
   position: absolute;
-  left: 295px;
-  top: 210px;
+  left: 50px;
+  top: -153px;
 }
 .solicitar-compra {
   color: #ffffff;
